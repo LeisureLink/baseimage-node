@@ -8,7 +8,8 @@ See [phusion/baseimage](https://hub.docker.com/r/phusion/baseimage/) to understa
 
 ## Tags (Asset Versions)
 
-* **1.0.0** (Ubuntu 14.04, node 4.2.4)
+* **latest, 1.2.0** (phusion/baseimage 0.9.17 (Ubuntu 14.04 LTS), node 4.2.4)
+* **node-0.12.7** (phusion/baseimage 0.9.17 (Ubuntu 14.04 LTS), node 0.12.7, npm 2.11.2)
 
 ## License
 
